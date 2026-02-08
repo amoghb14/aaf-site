@@ -91,3 +91,14 @@ footer {
     background-color: #0a1a2f;
     color: white;
 }
+
+#gallery{
+    display: flex;
+    width: 300px;
+    height: 400px;
+}
+
+#d{
+    width: 300px;
+    height: 400px;
+}
